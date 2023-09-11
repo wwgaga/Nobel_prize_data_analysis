@@ -1,5 +1,5 @@
 # Nobel_prize_analysis
-![WERATEDOG](Nobel_image.png)
+![](Nobel_image.png)
 ## Introduction
 The Nobel Prize, established in 1895 by Swedish chemist and industrialist Alfred Nobel, consists of annual international awards in various categories, 
 recognizing exceptional achievements in academia, culture, and science. These awards, including Chemistry, Literature, Peace, Physics, and Physiology or Medicine, 
